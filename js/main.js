@@ -21,6 +21,9 @@ $(document).ready(function(){
     $(".case-content li h5").click(function(){
 		$(this).parent().find('.overview').removeClass("hide").addClass("active");
 	});
+	$(".case-content li p img").click(function(){
+		$(this).parent().parent().find('.overview').removeClass("hide").addClass("active");
+	});
 
 	carouselResize();
 	carouselSwitch();
