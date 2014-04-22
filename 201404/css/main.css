@@ -107,3 +107,15 @@ h1,h2,h3,h4,h5,h6
 {
 	color: #ffffff;
 }
+.index
+{
+	padding: 55px 0;
+	width: 100%;
+}
+.index .index-container
+{
+	margin: 0 auto;
+	width: 1320px;
+	height: 800px;
+	background: url(../image/indexbg.jpg) no-repeat;
+}
