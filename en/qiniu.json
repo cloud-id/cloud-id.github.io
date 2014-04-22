@@ -1,0 +1,8 @@
+{
+    "access_key": "i-g0ZOvqrRWdJ3CtPZUeMTFFbJtL5eyc3WbQt-7B",
+    "secret_key": "dVBlZhBs30wG6rLCCaPcLuqy0bmy-UFc-eQImfzz",
+    "bucket": "cloudid",
+    "sync_dir": "./",
+    "async_ops": "",
+    "debug_level": 0
+}
