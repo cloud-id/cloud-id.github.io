@@ -1,0 +1,109 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body 
+{
+	font-family: 微软雅黑;
+}
+h1,h2,h3,h4,h5,h6
+{
+	font-family: 微软雅黑;
+}
+.contact
+{
+	position: fixed;
+	top: 55px;
+	right: -15px;
+	width: 50px;
+	height: 160px;
+	/*text-align: center;*/
+	background: url(../image/u63.png) no-repeat;
+	font-size: 18px;
+}
+.contact p
+{
+	padding: 30px 15px;
+	width: 30px;
+	word-wrap: break-word;
+	color: #ffffff;
+}
+.contact-content
+{
+	
+}
+.container
+{
+	position: relative;
+	clear: both;
+	margin:30px auto;
+	width: 1170px;
+	height: 420px;
+	padding-top: 55px;
+}
+.container .text
+{
+	padding: 0 50px;
+	float: left;
+	width: 310px;
+}
+.container .text h2
+{
+	font-size: 28px;
+	font-weight: normal;
+}
+.container .text p
+{
+	font-size: 16px;
+	padding: 0 10px;
+	padding-top: 96px;
+	word-wrap: break-word;
+	font-weight: 400;
+}
+.container .text p span
+{
+	font-weight: bold;
+}
+.container .image
+{
+	padding: 0 30px;
+	display: block;
+	float: left;
+}
+.myaction
+{
+	background-color: #66cccc;
+}
+.myaction .container .text h2
+{
+	color: #ffffff;
+}
+.myaction .container .text p
+{
+	color: #ffffff;
+}
+.guestlist
+{
+	background-color: #cc9933;
+}
+.guestlist .container .text h2
+{
+	color: #ffffff;
+}
+.guestlist .container .text p
+{
+	color: #ffffff;
+}
+.interactive
+{
+	background-color: #99ccff;
+}
+.interactive .container .text h2
+{
+	color: #ffffff;
+}
+.interactive .container .text p
+{
+	color: #ffffff;
+}
