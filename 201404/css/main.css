@@ -109,7 +109,6 @@ h1,h2,h3,h4,h5,h6
 }
 .index
 {
-	/*padding: 55px 0;*/
 	width: 100%;
 }
 .index .index-container
@@ -117,5 +116,46 @@ h1,h2,h3,h4,h5,h6
 	margin: 0 auto;
 	width: 1320px;
 	height: 800px;
+	padding-top: 300px;
+	text-align: center;
 	background: url(../image/indexbg.jpg) no-repeat;
+
+}
+.online
+{
+	display: inline-block;
+	background-color: #9acd3d;
+}
+.customize
+{
+	display: inline-block;
+	background-color: #63b4fb;
+}
+.entrance
+{
+	width: 350px;
+	height: 175px;
+	padding-top: 15px; 
+	text-align: center;
+	font-family: 宋体;
+	color: #fff;
+}
+.entrance h2
+{
+	font-weight: normal;
+	font-size: 24px;
+}
+.entrance p
+{
+	font-size: 15px;
+}
+.entrance a
+{
+	background-color: #a93e3e;
+	width: 150px;
+	height: 40px;
+	font-size: 16px;
+	margin-top: 20px;
+	font-family: 微软雅黑;
+
 }
