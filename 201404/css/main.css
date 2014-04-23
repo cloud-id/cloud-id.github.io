@@ -109,7 +109,7 @@ h1,h2,h3,h4,h5,h6
 }
 .index
 {
-	padding: 55px 0;
+	/*padding: 55px 0;*/
 	width: 100%;
 }
 .index .index-container
