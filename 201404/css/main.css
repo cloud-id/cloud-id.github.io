@@ -130,19 +130,9 @@ h1,h2,h3,h4,h5,h6
 }
 .qqonline a img
 {
-	width: 30px;
-	height: 100px;
+	width: 35px;
+	height: 120px;
 }
-/*.index a
-{
-	right: 0;
-	position: fixed;
-}
-.index a img
-{
-	width: 40px;
-	height: 80px;
-}*/
 .online
 {
 	display: inline-block;
@@ -173,12 +163,16 @@ h1,h2,h3,h4,h5,h6
 }
 .entrance a
 {
-	/*display: block;*/
+	display: block;
 	background-color: #a93e3e;
+	border-radius: 10px;
+	box-shadow: 1px 1px 1px #888888;
+	color: #fff;
 	width: 150px;
 	height: 40px;
+	margin: 30px 100px;
+	padding-top: 8px; 
 	font-size: 16px;
-	margin-top: 20px;
 	font-family: 微软雅黑;
 
 }
