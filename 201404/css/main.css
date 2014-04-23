@@ -18,37 +18,68 @@ h1,h2,h3,h4,h5,h6
 	right: -15px;
 	width: 50px;
 	height: 160px;
-	background: url(../image/u62.png) no-repeat;
-	font-size: 18px;
+	
 }
-.contact p
+.contact button
 {
+	display: block;
 	padding: 30px 15px;
-	width: 30px;
-	border: 0px;
+	width: 50px;
+	height: 160px;
+	text-align: center;
+	background-color: #fff;
+	font-size: 18px;
 	word-wrap: break-word;
+	border-radius: 10px;
+	box-shadow: 1px 1px 1px #888888;
 }
-.contact a,a:hover,a:visited
-{
-	text-decoration: none;
-	color: #000;
-}
+
 .contact-content
 {
+	display: none;
 	position: fixed;
-	margin: 55px 400px;
 	width: 455px;
 	height: 200px;
-	border: 1px bold #000;
-	/*border:1px;
+	top: 55px;
+	right: 55px;
+	padding: 50px;
+	background-color: #6699cc;
 	border-radius: 10px;
+	color: #fff;
+	font-size: 15px;
+	font-family: 微软雅黑;
+}
+.contact-content .label
+{
+	display: inline-block;
+	width: 150px;
+	height: 27px;
+	padding:20px 20px 0 20px;
+	text-align: right;
+}
+.contact-content input
+{
+	display:inline-block;
+	border-radius: 5px;
+	height: 25px;
 	width: 200px;
-	height: 100px;*/
+}
+.contact-content button
+{
+	display:block;
+	border-radius: 5px;
+	width: 50px;
+	height: 35px;
+	margin-top: 20px;
+	margin-left: 200px;
+	background-color: #6699cc;
+	color: #fff;
+	font-size: 15px;
+	font-family: 微软雅黑;
 }
 .container
 {
-	position: relative;
-	clear: both;
+	/*position: relative;*/
 	margin:30px auto;
 	width: 1170px;
 	height: 450px;
@@ -83,6 +114,10 @@ h1,h2,h3,h4,h5,h6
 	display: block;
 	float: left;
 }
+/*.container .image img
+{
+	display: block;
+}*/
 .myaction
 {
 	background-color: #66cccc;
@@ -125,7 +160,6 @@ h1,h2,h3,h4,h5,h6
 }
 .index-container
 {
-	/*position: absolute;*/
 	margin: 0 auto;
 	width: 1320px;
 	height: 800px;
