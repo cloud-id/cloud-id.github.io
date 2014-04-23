@@ -19,7 +19,7 @@ h1,h2,h3,h4,h5,h6
 	width: 50px;
 	height: 160px;
 	/*text-align: center;*/
-	background: url(../image/u63.png) no-repeat;
+	background: url(../image/u62.png) no-repeat;
 	font-size: 18px;
 }
 .contact p
@@ -27,7 +27,7 @@ h1,h2,h3,h4,h5,h6
 	padding: 30px 15px;
 	width: 30px;
 	word-wrap: break-word;
-	color: #ffffff;
+	/*color: #ffffff;*/
 }
 .contact-content
 {
@@ -39,7 +39,7 @@ h1,h2,h3,h4,h5,h6
 	clear: both;
 	margin:30px auto;
 	width: 1170px;
-	height: 420px;
+	height: 450px;
 	padding-top: 55px;
 }
 .container .text
@@ -59,7 +59,7 @@ h1,h2,h3,h4,h5,h6
 	padding: 0 10px;
 	padding-top: 96px;
 	word-wrap: break-word;
-	font-weight: 400;
+	/*font-weight: 400;*/
 }
 .container .text p span
 {
