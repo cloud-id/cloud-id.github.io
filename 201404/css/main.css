@@ -177,9 +177,7 @@ h1,h2,h3,h4,h5,h6
 }
 .footer p.p1
 {
-	display: block;
 	font-size: 20px;
-
 	padding-top:50px; 
 	margin: 0 auto;
 	width: 1170px;
@@ -232,7 +230,7 @@ h1,h2,h3,h4,h5,h6
 	height: 175px;
 	padding-top: 15px; 
 	text-align: center;
-	font-family: 宋体;
+	/*font-family: 宋体;*/
 	color: #fff;
 }
 .entrance h2
