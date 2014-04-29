@@ -86,7 +86,6 @@ h1,h2,h3,h4,h5,h6
 }
 .container
 {
-	/*position: relative;*/
 	margin:30px auto;
 	width: 1170px;
 	height: 450px;
@@ -109,7 +108,6 @@ h1,h2,h3,h4,h5,h6
 	padding: 0 10px;
 	padding-top: 96px;
 	word-wrap: break-word;
-	/*font-weight: 400;*/
 }
 .container .text p span
 {
@@ -121,15 +119,9 @@ h1,h2,h3,h4,h5,h6
 	display: block;
 	float: left;
 }
-/*.container .image img
-{
-	display: block;
-}*/
 .myaction
 {
 	background-color: #66cccc;
-	/*margin: 0 auto;
-	width: 1170px;*/
 }
 .myaction .container .text h2
 {
@@ -142,8 +134,6 @@ h1,h2,h3,h4,h5,h6
 .guestlist
 {
 	background-color: #cc9933;
-	/*margin: 0 auto;
-	width: 1170px;*/
 }
 .guestlist .container .text h2
 {
@@ -156,8 +146,6 @@ h1,h2,h3,h4,h5,h6
 .interactive
 {
 	background-color: #99ccff;
-	/*margin: 0 auto;
-	width: 1170px;*/
 }
 .interactive .container .text h2
 {
@@ -172,7 +160,6 @@ h1,h2,h3,h4,h5,h6
 	background-color: #66cccc;
 	color: #fff;
 	margin-top: 105px;
-	/*padding-top: 50px;*/
 	height: 480px;
 }
 .footer p.p1
@@ -195,7 +182,6 @@ h1,h2,h3,h4,h5,h6
 }
 .index-container
 {
-	/*margin: 0 auto;*/
 	position: fixed;
 	padding-top: 300px;
 	text-align: center;
@@ -207,7 +193,6 @@ h1,h2,h3,h4,h5,h6
     background-size: cover;
     width: 100%;
     height: 100%;*/
-
 }
 .qqonline
 {
