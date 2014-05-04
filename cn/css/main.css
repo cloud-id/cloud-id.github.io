@@ -245,6 +245,28 @@ h1,h2,h3,h4,h5,h6 {
 	border-bottom: 1px solid #c5c5c5;
 }
 
+.language
+{
+	position: fixed;
+	top: -5px; 
+	right: 65px;
+	height: 30px;
+	padding: 10px 10px 0 10px;
+	border-radius: 10px;
+	box-shadow: 1px 1px 1px #888888;
+	font-size: 11px;
+	background-color: #6699CC;
+	
+}
+.language a
+{
+	color: #ffffff;
+}
+.language a:hover
+{
+	text-decoration: none;
+}
+
 .carousel-control.left,
 .carousel-control.right {
 	background-image: none;
