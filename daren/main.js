@@ -48,7 +48,7 @@ $(function(){
 		window.open("http://v.youku.com/v_show/id_XNDIzMTM3Njky.html");
 	});
 	$("#livevideo3").click(function(){
-		window.open("http://v.qq.com/page/w/m/h/w0139fk9amh.html");
+		window.open("http://v.qq.com/page/j/o/g/j01394y02og.html");
 	});
 	$("#drawvideo2").click(function(){
 		window.open("http://v.youku.com/v_show/id_XNDIzMTIzNDQ4.html");
